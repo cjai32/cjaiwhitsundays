@@ -2,7 +2,7 @@
 
 # Lookbook by CJ Alava
 
-- Development - [Store Link](https://chrisvincent-development.myshopify.com/?_ab=0&_bt=eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaXRqYUhKcGMzWnBibU5sYm5RdFpHVjJaV3h2Y0cxbGJuUXViWGx6YUc5d2FXWjVMbU52YlFZNkJrVlUiLCJleHAiOiIyMDI1LTA1LTE4VDE5OjQwOjQxLjI3NFoiLCJwdXIiOiJwZXJtYW5lbnRfcGFzc3dvcmRfYnlwYXNzIn19--2c802a13caf8bf498335d5c426afbb8d224772df&_fd=0&_sc=1&key=aed2f6294a54c9d4b09a93f0d8752ea6f5334a45764ace2856c071b21b8e4abe&preview_theme_id=178533269811).
+[Store Link](https://chrisvincent-development.myshopify.com/?_ab=0&_bt=eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaXRqYUhKcGMzWnBibU5sYm5RdFpHVjJaV3h2Y0cxbGJuUXViWGx6YUc5d2FXWjVMbU52YlFZNkJrVlUiLCJleHAiOiIyMDI1LTA1LTE4VDE5OjQwOjQxLjI3NFoiLCJwdXIiOiJwZXJtYW5lbnRfcGFzc3dvcmRfYnlwYXNzIn19--2c802a13caf8bf498335d5c426afbb8d224772df&_fd=0&_sc=1&key=aed2f6294a54c9d4b09a93f0d8752ea6f5334a45764ace2856c071b21b8e4abe&preview_theme_id=178533269811).
 
 
 Password: `cjva`
