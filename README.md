@@ -23,12 +23,15 @@
 
 - The lookbook section is powered mainly by Shopify Metaobjects, To edit the lookbook metaobject, go to Content -> Metaobjects -> Lookbook. See recording: https://jmp.sh/tq0zWkCK
   - The lookbook metaobjects has a title, description, highlight image and a list of products.
+  - Added a highlight image to better highlight the section.
+
+- The lookbook section has been made with the slider component from Dawn.
 
 - The lookbook section has a manual selection of Lookbook metaobject entry through a `metaobject` setting which can be used in all pages: https://jmp.sh/cHJfWm6B
 
 - The on PDP have been consolidated into one section, A theme customizer setting is added to cater the PDP Lookbook section.
- - For PDP, There is a `Lookbook source` setting that is used. Auto Detect will only work on PDP. See recording: https://jmp.sh/Ggti6DaA
- - We do the Auto Detect by checking if product is part of any lookbook by looping through the metaobjects entries on lookbook type
- - We render the lookbook section based on the lookbook entry we got
+  - For PDP, There is a `Lookbook source` setting that is used. Auto Detect will only work on PDP. See recording: https://jmp.sh/Ggti6DaA
+  - We do the Auto Detect by checking if product is part of any lookbook by looping through the metaobjects entries on lookbook type
+  - We render the lookbook section based on the lookbook entry we got
 
 
